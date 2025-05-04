@@ -38,7 +38,36 @@ If applicable, add screenshots to help explain your problem.
 
 GemRB version (check as many as you know apply)
 - [ ] master as of this issue
+- [ ] 0.9If you know them, include the file names (resrefs) of the relevant resources
+involved, eg. scripts, items, spells, areas, creatures or sounds. You can
+learn a lot by pointing at something and pressing ctrl-m, which triggers a
+debug dump.
+
+In case of complicated bugs or hard to reach states, please provide a save
+game, so we can reproduce the problem more easily.
+
+#### Steps to reproduce
+1. Go to '...'
+2. Click on '....'
+3. Scroll down to '....'
+4. See error
+
+#### Expected behavior
+Add a clear and concise description of what you expected to happen.
+
+#### Screenshots
+If applicable, add screenshots to help explain your problem.
+
+GemRB version (check as many as you know apply)
+- [ ] master as of this issue
 - [ ] 0.9.4
+- [ ] 0.9.3
+- [ ] 0.9.2
+
+Video Driver (check as many as you know apply)
+- [ ] SDL1.2
+- [ ] SDL2 built with `OPENGL_BACKEND` enabled
+- [ ] SDL2 without `OPENGL_BACKEND` enabled.4
 - [ ] 0.9.3
 - [ ] 0.9.2
 
